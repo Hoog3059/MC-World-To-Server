@@ -1,0 +1,41 @@
+2014/12/22 19:48:07 [INFO] Preparing spawn for world...
+2014/12/22 19:48:09 [INFO] Preparing spawn for world: 4%
+2014/12/22 19:48:10 [INFO] Preparing spawn for world: 13%
+2014/12/22 19:48:11 [INFO] Preparing spawn for world: 23%
+2014/12/22 19:48:12 [INFO] Preparing spawn for world: 27%
+2014/12/22 19:48:13 [INFO] Preparing spawn for world: 32%
+2014/12/22 19:48:14 [INFO] Preparing spawn for world: 38%
+2014/12/22 19:48:15 [INFO] Preparing spawn for world: 43%
+2014/12/22 19:48:16 [INFO] Preparing spawn for world: 48%
+2014/12/22 19:48:17 [INFO] Preparing spawn for world: 56%
+2014/12/22 19:48:18 [INFO] Preparing spawn for world: 61%
+2014/12/22 19:48:19 [INFO] Preparing spawn for world: 67%
+2014/12/22 19:48:20 [INFO] Preparing spawn for world: 75%
+2014/12/22 19:48:21 [INFO] Preparing spawn for world: 82%
+2014/12/22 19:48:22 [INFO] Preparing spawn for world: 90%
+2014/12/22 19:48:23 [INFO] Preparing spawn for world: 98%
+2014/12/22 19:48:23 [INFO] Preparing spawn for world: done
+2014/12/22 19:48:23 [INFO] Preparing spawn for world_nether...
+2014/12/22 19:48:25 [INFO] Preparing spawn for world_nether: 2%
+2014/12/22 19:48:26 [INFO] Preparing spawn for world_nether: 12%
+2014/12/22 19:48:27 [INFO] Preparing spawn for world_nether: 20%
+2014/12/22 19:48:28 [INFO] Preparing spawn for world_nether: 34%
+2014/12/22 19:48:29 [INFO] Preparing spawn for world_nether: 45%
+2014/12/22 19:48:30 [INFO] Preparing spawn for world_nether: 61%
+2014/12/22 19:48:31 [INFO] Preparing spawn for world_nether: 77%
+2014/12/22 19:48:32 [INFO] Preparing spawn for world_nether: 87%
+2014/12/22 19:48:33 [INFO] Preparing spawn for world_nether: done
+2014/12/22 19:48:33 [INFO] Preparing spawn for world_the_end...
+2014/12/22 19:48:34 [INFO] Preparing spawn for world_the_end: 3%
+2014/12/22 19:48:35 [INFO] Preparing spawn for world_the_end: 26%
+2014/12/22 19:48:36 [INFO] Preparing spawn for world_the_end: 57%
+2014/12/22 19:48:38 [INFO] Preparing spawn for world_the_end: 66%
+2014/12/22 19:48:39 [INFO] Preparing spawn for world_the_end: 69%
+2014/12/22 19:48:40 [INFO] Preparing spawn for world_the_end: 77%
+2014/12/22 19:48:41 [INFO] Preparing spawn for world_the_end: 85%
+2014/12/22 19:48:42 [INFO] Preparing spawn for world_the_end: 96%
+2014/12/22 19:48:42 [INFO] Preparing spawn for world_the_end: done
+2014/12/22 19:48:42 [INFO] Created default config: config\commands.yml
+2014/12/22 19:48:43 [INFO] Created default config: config\permissions.yml
+2014/12/22 19:48:43 [INFO] Binding to address: 0.0.0.0/0.0.0.0:25565...
+2014/12/22 19:48:47 [INFO] Ready for connections.

@@ -1,0 +1,7 @@
+#SETTINGS FILE - DONT EDIT
+
+OVERWORLD:
+Bin\worlds\world
+
+PLUGINS:
+Bin\plugins

@@ -1,0 +1,154 @@
+2014/12/30 13:54:08 [WARNING] The server is running in offline mode! Only do this if you know what you're doing.
+2014/12/30 13:54:08 [INFO] Preparing spawn for world...
+2014/12/30 13:54:10 [INFO] Preparing spawn for world: 2%
+2014/12/30 13:54:11 [INFO] Preparing spawn for world: 9%
+2014/12/30 13:54:12 [INFO] Preparing spawn for world: 15%
+2014/12/30 13:54:13 [INFO] Preparing spawn for world: 22%
+2014/12/30 13:54:14 [INFO] Preparing spawn for world: 30%
+2014/12/30 13:55:09 [WARNING] The server is running in offline mode! Only do this if you know what you're doing.
+2014/12/30 13:55:10 [INFO] Preparing spawn for world...
+2014/12/30 13:55:11 [INFO] Preparing spawn for world: 6%
+2014/12/30 13:55:12 [INFO] Preparing spawn for world: 13%
+2014/12/30 13:55:13 [INFO] Preparing spawn for world: 19%
+2014/12/30 13:55:14 [INFO] Preparing spawn for world: 27%
+2014/12/30 13:55:15 [INFO] Preparing spawn for world: 37%
+2014/12/30 13:55:16 [INFO] Preparing spawn for world: 46%
+2014/12/30 13:55:17 [INFO] Preparing spawn for world: 49%
+2014/12/30 13:55:18 [INFO] Preparing spawn for world: 54%
+2014/12/30 13:55:19 [INFO] Preparing spawn for world: 59%
+2014/12/30 13:55:20 [INFO] Preparing spawn for world: 65%
+2014/12/30 13:55:21 [INFO] Preparing spawn for world: 73%
+2014/12/30 13:55:22 [INFO] Preparing spawn for world: 78%
+2014/12/30 13:55:23 [INFO] Preparing spawn for world: 83%
+2014/12/30 13:55:24 [INFO] Preparing spawn for world: 91%
+2014/12/30 13:55:25 [INFO] Preparing spawn for world: 99%
+2014/12/30 13:55:25 [INFO] Preparing spawn for world: done
+2014/12/30 13:55:25 [INFO] Preparing spawn for world_nether...
+2014/12/30 13:55:27 [INFO] Preparing spawn for world_nether: 9%
+2014/12/30 13:55:28 [INFO] Preparing spawn for world_nether: 26%
+2014/12/30 13:55:29 [INFO] Preparing spawn for world_nether: 41%
+2014/12/30 13:55:30 [INFO] Preparing spawn for world_nether: 53%
+2014/12/30 13:55:31 [INFO] Preparing spawn for world_nether: 68%
+2014/12/30 13:55:32 [INFO] Preparing spawn for world_nether: 85%
+2014/12/30 13:55:33 [INFO] Preparing spawn for world_nether: 97%
+2014/12/30 13:55:33 [INFO] Preparing spawn for world_nether: done
+2014/12/30 13:55:33 [INFO] Preparing spawn for world_the_end...
+2014/12/30 13:55:34 [INFO] Preparing spawn for world_the_end: 16%
+2014/12/30 13:55:35 [INFO] Preparing spawn for world_the_end: 39%
+2014/12/30 13:55:36 [INFO] Preparing spawn for world_the_end: 55%
+2014/12/30 13:55:37 [INFO] Preparing spawn for world_the_end: 64%
+2014/12/30 13:55:38 [INFO] Preparing spawn for world_the_end: 70%
+2014/12/30 13:55:39 [INFO] Preparing spawn for world_the_end: 86%
+2014/12/30 13:55:40 [INFO] Preparing spawn for world_the_end: done
+2014/12/30 13:55:40 [INFO] [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+2014/12/30 13:55:42 [INFO] [WorldEdit] Default configuration file written: config.yml
+2014/12/30 13:55:42 [INFO] WEPIF: Updated config file
+2014/12/30 13:55:42 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014/12/30 13:55:42 [WARNING] [WorldEdit] 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and biome-related functions.
+**
+** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
+**********************************************
+
+2014/12/30 13:55:43 [INFO] Binding to address: localhost/127.0.0.1:25565...
+2014/12/30 13:55:46 [INFO] Ready for connections.
+2014/12/30 13:56:44 [WARNING] The server is running in offline mode! Only do this if you know what you're doing.
+2014/12/30 13:56:45 [INFO] Preparing spawn for world...
+2014/12/30 13:56:47 [INFO] Preparing spawn for world: 2%
+2014/12/30 13:56:48 [INFO] Preparing spawn for world: 6%
+2014/12/30 13:56:49 [INFO] Preparing spawn for world: 10%
+2014/12/30 13:56:50 [INFO] Preparing spawn for world: 14%
+2014/12/30 13:56:51 [INFO] Preparing spawn for world: 18%
+2014/12/30 13:56:52 [INFO] Preparing spawn for world: 21%
+2014/12/30 13:56:53 [INFO] Preparing spawn for world: 26%
+2014/12/30 13:56:54 [INFO] Preparing spawn for world: 29%
+2014/12/30 13:56:55 [INFO] Preparing spawn for world: 33%
+2014/12/30 13:56:56 [INFO] Preparing spawn for world: 37%
+2014/12/30 13:56:57 [INFO] Preparing spawn for world: 41%
+2014/12/30 13:56:58 [INFO] Preparing spawn for world: 46%
+2014/12/30 13:56:59 [INFO] Preparing spawn for world: 49%
+2014/12/30 13:57:00 [INFO] Preparing spawn for world: 52%
+2014/12/30 13:57:01 [INFO] Preparing spawn for world: 56%
+2014/12/30 13:57:02 [INFO] Preparing spawn for world: 60%
+2014/12/30 13:57:03 [INFO] Preparing spawn for world: 64%
+2014/12/30 13:57:04 [INFO] Preparing spawn for world: 67%
+2014/12/30 13:57:05 [INFO] Preparing spawn for world: 71%
+2014/12/30 13:57:06 [INFO] Preparing spawn for world: 75%
+2014/12/30 13:57:07 [INFO] Preparing spawn for world: 79%
+2014/12/30 13:57:08 [INFO] Preparing spawn for world: 82%
+2014/12/30 13:57:09 [INFO] Preparing spawn for world: 85%
+2014/12/30 13:57:10 [INFO] Preparing spawn for world: 88%
+2014/12/30 13:57:11 [INFO] Preparing spawn for world: 92%
+2014/12/30 13:57:12 [INFO] Preparing spawn for world: 96%
+2014/12/30 13:57:13 [INFO] Preparing spawn for world: done
+2014/12/30 13:57:13 [INFO] Preparing spawn for world_nether...
+2014/12/30 13:57:15 [INFO] Preparing spawn for world_nether: 2%
+2014/12/30 13:57:16 [INFO] Preparing spawn for world_nether: 10%
+2014/12/30 13:57:17 [INFO] Preparing spawn for world_nether: 17%
+2014/12/30 13:57:18 [INFO] Preparing spawn for world_nether: 25%
+2014/12/30 13:57:19 [INFO] Preparing spawn for world_nether: 34%
+2014/12/30 13:57:20 [INFO] Preparing spawn for world_nether: 40%
+2014/12/30 13:57:21 [INFO] Preparing spawn for world_nether: 49%
+2014/12/30 13:57:22 [INFO] Preparing spawn for world_nether: 58%
+2014/12/30 13:57:23 [INFO] Preparing spawn for world_nether: 65%
+2014/12/30 13:57:24 [INFO] Preparing spawn for world_nether: 74%
+2014/12/30 13:57:25 [INFO] Preparing spawn for world_nether: 82%
+2014/12/30 13:57:26 [INFO] Preparing spawn for world_nether: 91%
+2014/12/30 13:57:27 [INFO] Preparing spawn for world_nether: 97%
+2014/12/30 13:57:27 [INFO] Preparing spawn for world_nether: done
+2014/12/30 13:57:27 [INFO] Preparing spawn for world_the_end...
+2014/12/30 13:57:29 [INFO] Preparing spawn for world_the_end: 6%
+2014/12/30 13:57:30 [INFO] Preparing spawn for world_the_end: 21%
+2014/12/30 13:57:31 [INFO] Preparing spawn for world_the_end: 34%
+2014/12/30 13:57:32 [INFO] Preparing spawn for world_the_end: 47%
+2014/12/30 13:57:33 [INFO] Preparing spawn for world_the_end: 57%
+2014/12/30 13:57:34 [INFO] Preparing spawn for world_the_end: 65%
+2014/12/30 13:57:35 [INFO] Preparing spawn for world_the_end: 80%
+2014/12/30 13:57:36 [INFO] Preparing spawn for world_the_end: 93%
+2014/12/30 13:57:37 [INFO] Preparing spawn for world_the_end: done
+2014/12/30 13:57:37 [INFO] [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+2014/12/30 13:57:40 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014/12/30 13:57:40 [WARNING] [WorldEdit] 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and biome-related functions.
+**
+** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
+**********************************************
+
+2014/12/30 13:57:41 [INFO] Binding to address: localhost/127.0.0.1:25565...
+2014/12/30 13:57:45 [INFO] Ready for connections.
+2014/12/30 18:32:58 [WARNING] The server is running in offline mode! Only do this if you know what you're doing.
+2014/12/30 18:32:59 [INFO] Preparing spawn for world...
+2014/12/30 18:33:01 [INFO] Preparing spawn for world: 2%
+2014/12/30 18:33:02 [INFO] Preparing spawn for world: 4%
+2014/12/30 18:33:03 [INFO] Preparing spawn for world: 8%
+2014/12/30 18:33:04 [INFO] Preparing spawn for world: 12%
+2014/12/30 18:33:05 [INFO] Preparing spawn for world: 16%
+2014/12/30 18:33:06 [INFO] Preparing spawn for world: 21%
+2014/12/30 18:33:07 [INFO] Preparing spawn for world: 26%
+2014/12/30 18:33:08 [INFO] Preparing spawn for world: 32%
+2014/12/30 18:33:09 [INFO] Preparing spawn for world: 40%
+2014/12/30 18:33:10 [INFO] Preparing spawn for world: 47%
+2014/12/30 18:33:11 [INFO] Preparing spawn for world: 58%
+2014/12/30 18:33:12 [INFO] Preparing spawn for world: 68%
+2014/12/30 18:33:13 [INFO] Preparing spawn for world: 79%
+2014/12/30 18:33:14 [INFO] Preparing spawn for world: 88%
+2014/12/30 18:33:15 [INFO] Preparing spawn for world: 97%
+2014/12/30 18:33:15 [INFO] Preparing spawn for world: done
+2014/12/30 18:33:15 [INFO] Preparing spawn for world_nether...
+2014/12/30 18:33:16 [INFO] Preparing spawn for world_nether: 4%
+2014/12/30 18:33:17 [INFO] Preparing spawn for world_nether: 15%
+2014/12/30 18:33:18 [INFO] Preparing spawn for world_nether: 31%
+2014/12/30 18:33:19 [INFO] Preparing spawn for world_nether: 39%
+2014/12/30 18:33:21 [INFO] Preparing spawn for world_nether: 47%
+2014/12/30 18:33:22 [INFO] Preparing spawn for world_nether: 64%
+2014/12/30 18:33:23 [INFO] Preparing spawn for world_nether: 82%
