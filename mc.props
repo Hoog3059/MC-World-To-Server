@@ -5,3 +5,6 @@ Bin\worlds\world
 
 PLUGINS:
 Bin\plugins
+
+FIRST_RUN:
+true

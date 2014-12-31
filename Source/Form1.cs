@@ -177,7 +177,7 @@ namespace MC_World_To_Server
             {
                 os = 1;
             }
-            string[] line = File.ReadAllLines("mc.wts");
+            string[] line = File.ReadAllLines("mc.props");
             world = line[3];
             plugins = line[6];
             try
