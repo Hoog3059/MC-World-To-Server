@@ -17,6 +17,7 @@ namespace MC_World_To_Server
     {
         public string world;
         public string plugins;
+        public int os;
         
         public Form1()
         {
@@ -63,19 +64,44 @@ namespace MC_World_To_Server
                 }
                 string current = Directory.GetCurrentDirectory();
                 DirectoryCopy(Fpath, world, true);
-                try
+                if (os == 0)
                 {
-                    this.Hide();
-                    Process p = new Process();
-                    p.StartInfo.FileName = "cmd.exe";
-                    p.StartInfo.Arguments = "/c start.bat";
-                    p.Start();
-                    p.WaitForExit();
-                    this.Show();
+                    try
+                    {
+                        this.Hide();
+                        Process p = new Process();
+                        p.StartInfo.FileName = "start.sh";
+                        p.Start();
+                        p.WaitForExit();
+                        this.Show();
+                    }
+                    catch
+                    {
+                        this.Hide();
+                        Process p = new Process();
+                        p.StartInfo.FileName = "/bin/bash";
+                        p.StartInfo.Arguments = "start";
+                        p.Start();
+                        p.WaitForExit();
+                        this.Show();
+                    }                    
                 }
-                catch (InvalidProgramException)
+                else
                 {
-                    MessageBox.Show("ERROR: Can't start server, Try again!!", "ERROR: Can't Start", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    try
+                    {
+                        this.Hide();
+                        Process p = new Process();
+                        p.StartInfo.FileName = "cmd.exe";
+                        p.StartInfo.Arguments = "/c start.bat";
+                        p.Start();
+                        p.WaitForExit();
+                        this.Show();
+                    }
+                    catch (InvalidProgramException)
+                    {
+                        MessageBox.Show("ERROR: Can't start server, Try again!!", "ERROR: Can't Start", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
                 }
                 if ((MessageBox.Show("Do you want to save the changes?", "Save?", MessageBoxButtons.YesNo, MessageBoxIcon.Question)) == DialogResult.Yes)
                 {
@@ -142,6 +168,15 @@ namespace MC_World_To_Server
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            int p = (int)Environment.OSVersion.Platform;
+            if ((p == 4) || (p == 128))
+            {
+                os = 0;
+            }
+            else
+            {
+                os = 1;
+            }
             string[] line = File.ReadAllLines("mc.wts");
             world = line[3];
             plugins = line[6];

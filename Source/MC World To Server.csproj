@@ -142,9 +142,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PreBuildEvent>xcopy "$(SolutionDir)MC World To Server\*.cs" "$(TargetDir)Source" /Y
-xcopy "$(SolutionDir)MC World To Server\*.csproj" "$(TargetDir)Source" /Y
-xcopy "$(SolutionDir)MC World To Server\*.resx" "$(TargetDir)Source" /Y</PreBuildEvent>
+    <PreBuildEvent>xcopy "$(SolutionDir)MC World To Server\*.cs" "$(ProjectDir)bin\Release\Source" /Y
+xcopy "$(SolutionDir)MC World To Server\*.csproj" "$(ProjectDir)bin\Release\Source" /Y
+xcopy "$(SolutionDir)MC World To Server\*.resx" "$(ProjectDir)bin\Release\Source" /Y</PreBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
