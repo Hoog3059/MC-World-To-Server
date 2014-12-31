@@ -18,6 +18,7 @@ namespace MC_World_To_Server
         public string world;
         public string plugins;
         public int os;
+        public bool firstr;
         
         public Form1()
         {
@@ -180,13 +181,14 @@ namespace MC_World_To_Server
             string[] line = File.ReadAllLines("mc.props");
             world = line[3];
             plugins = line[6];
-            try
+            firstr = Convert.ToBoolean(line[9]);
+            if (firstr == true)
             {
-                File.Delete("temp.version");
-            }
-            catch
-            {
-            }           
+                MessageBox.Show("You need to set your minecraft name in the settings!!");
+                SettingsForm sf = new SettingsForm();
+                this.Show();
+                sf.ShowDialog();                
+            }          
         }
     }
 }
