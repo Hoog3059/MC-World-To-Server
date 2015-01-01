@@ -163,17 +163,6 @@ namespace MC_World_To_Server
                 sw1.WriteLine("CONFIG:");
                 sw1.WriteLine(txt4);
                 sw1.Close();
-                try
-                {
-                    File.Delete(txt4 + "\\ops.json");
-                    StreamWriter sw2 = new StreamWriter(txt4 + "\\ops.json");
-                    sw2.WriteLine("[{\"name\":\"" + txt3 + "\",\"uuid\":\"76622807-dcb9-3ae4-a859-c64bed441530\"}]");
-                    sw2.Close();
-                }
-                catch (FileNotFoundException)
-                {
-                    MessageBox.Show("Can't find file: " + txt4 + "\\ops.json", "Can't find", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
                 this.Hide();
             }
             catch (FileLoadException)

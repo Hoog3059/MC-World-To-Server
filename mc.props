@@ -10,7 +10,7 @@ FIRST_RUN:
 true
 
 MINECRAFT_NAME:
-notset
+...
 
 CONFIG:
 Bin\config

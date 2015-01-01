@@ -8,7 +8,7 @@ server:
     ip: 'localhost'
     port: 25565
     name: Glowstone Server
-    online-mode: false
+    online-mode: true
     max-players: 20
     whitelisted: false
     motd: Glowstone Server
